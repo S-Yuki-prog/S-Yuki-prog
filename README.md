@@ -3,28 +3,15 @@
 <div style="display: flex; gap: 20px;">
 <div style="flex: 1;">
 
-### 日本語
-| 項目 | 内容 |
-| :--- | :--- |
-| **氏名** | 関 優稀 |
-| **国籍** | 日本 |
-| **所属大学** | 神奈川工科大学 |
-| **学部** | 情報学部 |
-| **学科** | 情報工学科 |
-| **卒業見込み** | 2028年3月 |
-
-</div>
-<div style="flex: 1;">
-
-### English 
-| Item | Details |
-| :--- | :--- |
-| **Full Name** | Yuki Seki |
-| **Nationality** | Japan |
-| **University** | Kanagawa Institute of Technology |
-| **Faculty** | Faculty of Information Technology |
-| **Department** | Dept. of Information Engineering |
-| **Expected Graduation** | March 2028 |
+### 日本語/English
+| 項目 | 内容 |Item | Details |
+| :--- | :--- | :--- | :--- |
+| **氏名** | 関 優稀 | **Full Name** | Yuki Seki |
+| **国籍** | 日本 | **Nationality** | Japan |
+| **所属大学** | 神奈川工科大学 | **University** | Kanagawa Institute of Technology |
+| **学部** | 情報学部 | **Faculty** | Faculty of Information Technology |
+| **学科** | 情報工学科 | **Department** | Dept. of Information Engineering |
+| **卒業見込み** | 2028年3月 | **Expected Graduation** | March 2028 |
 
 </div>
 </div>
@@ -51,3 +38,29 @@
 - 情報セキュリティマネジメント（6月）
 - TOEIC（8月）
 - Java™プログラミング能力認定試験 2級
+
+
+## 取得予定の資格
+
+2026年4月22日よりプロジェクト研究に参加。
+
+プロジェクト名 ： ミライケータイプロジェクト
+十数年後のミライで使われるサービスを考案し、その実現に向けた開発を行うことを課題と設定し、未来で起こり得る社会課題を想像、それに対する思考力や課題解決能力を高めることを狙いとしているプロジェクトである。
+公立はこだて未来大学を主軸とし、神奈川工科大学、法政大学、京都橘大学の学生が参加する、4大学合同プロジェクトとして活動する。
+| 月 | 活動内容 |
+| :--- | :--- |
+| 4月|役員の決定。どのようなアプリを開発したいかの案出しを行った。|
+| 5月|(予定：合同合宿に向けて技術力向上を図り、基礎的なアプリ開発を実施予定。)|
+| 6月|(予定：他大学と合同合宿を実施予定。案出しを発表し、ビジネスモデルの具体的な考案を行う予定。)|
+| 7月||
+| 8月||
+| 9月||
+|10月||
+|11月||
+|12月||
+| 1月||
+| 2月||
+| 3月||
+
+
+
