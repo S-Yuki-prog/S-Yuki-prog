@@ -33,11 +33,11 @@ Git / GitHub、Visual Studio Code、Eclipse、Android Studio（OS: Windows）
 
 ## 作品・取り組み
 
-| 名称 | 概要 | 使用技術 | リンク |
-| :--- | :--- | :--- | :--- |
-| テトリス | ブラウザ上で動作するテトリス。生成AI（Claude）を活用した開発の試行として作成 | HTML / JavaScript | [プレイする](https://s-yuki-prog.github.io/tetris/)<br>[リポジトリ](https://github.com/S-Yuki-prog/tetris) |
-| 大学講義における開発実績 | 講義・演習で作成したプログラムを、言語ごとにソースコードと実行結果を添えて解説 | Java / C / Python / MATLAB | [リポジトリ](https://github.com/S-Yuki-prog/study) |
-| paiza での取り組み | ランキングチャレンジへの参加と学習記録。Bランクに到達し、トロフィー賞・ランク賞を受賞 | Python / Java | [リポジトリ](https://github.com/S-Yuki-prog/paiza) |
+| 名称 | 概要 | 使用技術 |
+| :--- | :--- | :--- |
+| [テトリス](https://github.com/S-Yuki-prog/tetris) | ブラウザ上で動作するテトリス。生成AI（Claude）を活用した開発の試行として作成。[ブラウザでプレイする](https://s-yuki-prog.github.io/tetris/) | HTML / JavaScript |
+| [大学講義における開発実績](https://github.com/S-Yuki-prog/study) | 講義・演習で作成したプログラムを、言語ごとにソースコードと実行結果を添えて解説 | Java / C / Python / MATLAB |
+| [paiza での取り組み](https://github.com/S-Yuki-prog/paiza) | ランキングチャレンジへの参加と学習記録。Bランクに到達し、トロフィー賞・ランク賞を受賞 | Python / Java |
 
 ## 参加プロジェクト
 
