@@ -13,22 +13,29 @@
 
 ## 使える技術
 
-| 分類 | 技術 | 主な使用経験 |
-| :--- | :--- | :--- |
-| 言語 | Java | クラス設計・継承・インターフェースを用いた演習プログラムの作成 |
-| 言語 | C | TCP/IP によるネットワーク通信の実験 |
-| 言語 | Python | 単純パーセプトロンの実装、MNIST を用いた手書き数字の画像認識、paiza での問題演習 |
-| 言語 | MATLAB | ディープラーニングの学習（MathWorks 社の学習コースを修了） |
-| 言語 | HTML / CSS / JavaScript | ブラウザで動作するゲームの作成、Web プログラミングの講義 |
-| 学習中 | Swift / Kotlin / Dart / Docker / C++ | ミライケータイプロジェクトでのアプリケーション開発に向けて学習中 |
-| ツール | Git / GitHub、Visual Studio Code、Eclipse、Android Studio | |
-| 開発環境 | Windows | |
+### プログラミング言語
+
+| 言語 | 主な使用経験 |
+| :--- | :--- |
+| Java | クラス設計・継承・インターフェースを用いた演習プログラムの作成 |
+| C | TCP/IP によるネットワーク通信の実験 |
+| Python | 単純パーセプトロンの実装、MNIST を用いた手書き数字の画像認識、paiza での問題演習 |
+| MATLAB | ディープラーニングの学習（MathWorks 社の学習コースを修了） |
+| HTML / CSS / JavaScript | ブラウザで動作するゲームの作成、Web プログラミングの講義 |
+
+### 学習中の技術
+
+Swift、Kotlin、Dart、Docker、C++（ミライケータイプロジェクトでのアプリケーション開発に向けて学習中）
+
+### ツール・開発環境
+
+Git / GitHub、Visual Studio Code、Eclipse、Android Studio（OS: Windows）
 
 ## 作品・取り組み
 
 | 名称 | 概要 | 使用技術 | リンク |
 | :--- | :--- | :--- | :--- |
-| テトリス | ブラウザ上で動作するテトリス。生成AI（Claude）を活用した開発の試行として作成 | HTML / JavaScript | [プレイする](https://s-yuki-prog.github.io/tetris/) ・ [リポジトリ](https://github.com/S-Yuki-prog/tetris) |
+| テトリス | ブラウザ上で動作するテトリス。生成AI（Claude）を活用した開発の試行として作成 | HTML / JavaScript | [プレイする](https://s-yuki-prog.github.io/tetris/)<br>[リポジトリ](https://github.com/S-Yuki-prog/tetris) |
 | 大学講義における開発実績 | 講義・演習で作成したプログラムを、言語ごとにソースコードと実行結果を添えて解説 | Java / C / Python / MATLAB | [リポジトリ](https://github.com/S-Yuki-prog/study) |
 | paiza での取り組み | ランキングチャレンジへの参加と学習記録。Bランクに到達し、トロフィー賞・ランク賞を受賞 | Python / Java | [リポジトリ](https://github.com/S-Yuki-prog/paiza) |
 
